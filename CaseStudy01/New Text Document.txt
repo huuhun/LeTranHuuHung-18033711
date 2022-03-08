@@ -1,1 +1,0 @@
-getText() trả về chuỗi số
